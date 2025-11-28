@@ -1,2 +1,3 @@
 # Financial-Loan-Dashboard
-simple and basic dashboard using power
+Built powerbi dashboard for data visualisation.
+I created a simple dashboard to practice Power BI and understand data cleaning, modeling, and visualization.
